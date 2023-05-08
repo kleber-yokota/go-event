@@ -1,1 +1,3 @@
-# go-event
+# RabbitMQ
+
+This repository contains studies on the implementation of RabbitMQ with Go programming language. Docker-compose was utilized to provide a containerized RabbitMQ instance, and functions were developed for both consumers and producers to interact with the message queue. The goal of this project is to provide a practical example of how to use RabbitMQ with Go and to explore its functionalities in a real-world scenario.
